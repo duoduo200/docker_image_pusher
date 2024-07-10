@@ -1,3 +1,1 @@
-ntfy
-kasmweb/nginx
-binwiederhier/ntfy:v2.11.0
+docker pull registry.cn-hangzhou.aliyuncs.com/shrimp-images/alpine
